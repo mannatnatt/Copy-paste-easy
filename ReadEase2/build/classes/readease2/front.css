@@ -1,0 +1,17 @@
+.root{
+    -fx-background-color: goldenrod;
+    
+    
+}
+.button{
+    -fx-background-color:linear-gradient(#e01414, #ff3838);
+-fx-text-fill:#ffffff;
+-fx-border-radius: 2;
+-fx-padding: 2 10 2 10;
+
+}
+.button:hover{
+    -fx-background-color:linear-gradient(#ff3f00, #ff3838);
+    
+    
+}
